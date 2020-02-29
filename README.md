@@ -1,3 +1,4 @@
+![]https://user-images.githubusercontent.com/61607566/75599574-29aaff80-5a74-11ea-8548-c6707bef0fe4.png
 ## Welcome to Product Bay Group
 
 You can use the [editor on GitHub](https://github.com/ProductBay/Product-Bay-Group/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
